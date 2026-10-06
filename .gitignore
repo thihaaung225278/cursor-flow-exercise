@@ -1,0 +1,15 @@
+
+# dependencies and build output
+node_modules/
+.next/
+
+# clerk configuration (can include secrets)
+/.clerk/
+
+# Cursor IDE (local only)
+.cursor/
+.cursorrules
+.cursorrule
+
+# macOS
+.DS_Store
